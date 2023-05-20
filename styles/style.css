@@ -102,8 +102,6 @@
     }
     
     .apresentacao__imagem {
-        max-width: 488px;
-        max-height: 550px;
         width: 50%;
         border-radius: 16px;
     }
