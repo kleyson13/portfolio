@@ -103,6 +103,7 @@
     
     .apresentacao__imagem {
         width: 50%;
+        object-fit: cover;
         border-radius: 16px;
     }
     
@@ -132,5 +133,6 @@
         }
         .apresentacao__imagem {
             width: 70%;
+            object-fit: cover;
         }
     }
